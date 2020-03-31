@@ -16,7 +16,7 @@ __imagenet_pca = {
         [-0.5836, -0.6948,  0.4203],
     ])
 }
-
+#bonjour
 
 def scale_crop(input_size, scale_size=None, normalize=__imagenet_stats):
     t_list = [
